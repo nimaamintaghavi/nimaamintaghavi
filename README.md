@@ -6,7 +6,12 @@
 
 Some of my expertise can be summerized below:
 
-✓ Data Modelling & Visualization	|	✓	Stakeholder Engagement	    |	✓ Agile Project Management
-✓ Data Science Project Lifecycle	|	✓	Maintenance & Improvements	|	✓ Statistical Analysis  
-✓ Cloud Computing               	|	✓	Technical Documentation	    |	✓ Analysis & Problem-Solving
-
+✓ Data Modelling & Visualization	
+✓	Stakeholder Engagement	  
+✓ Agile Project Management
+✓ Data Science Project Lifecycle	
+✓	Maintenance & Improvements	
+✓ Statistical Analysis  
+✓ Cloud Computing               
+✓	Technical Documentation	  
+✓ Analysis & Problem-Solving
